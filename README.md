@@ -13,7 +13,7 @@ This dataset contains daily food consumption data collected from a hostel mess.
 Used for Non-Parametric Analysis (Kruskal-Wallis Test)
 
 ## Author
-Your Name
+ARUN DURAI
 
 ## License
 MIT License
